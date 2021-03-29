@@ -1,2 +1,1 @@
-to jest plik na gałęzki master
-To jest kolejna zmiana
+Zmieniona wartość
