@@ -1,1 +1,2 @@
 To jest plik na gałęzi newFeature
+Kolejna zmiana na gałęzi newFeature
